@@ -1,0 +1,28 @@
+{
+    "id": "305384CF",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1650456704350.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "id": "646fbc9328b4404a863840efbbd97f5e",
+        "name": "residuals.array",
+        "title": "residuals.array",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1892929508744,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1650456704350,
+    "read_only": false,
+    "read_only_alternatives": []
+}
